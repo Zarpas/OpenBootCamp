@@ -1,4 +1,4 @@
-public class Main {
+public class Ejercicio_Tema_4 {
     public static void main(String[] args) {
 
         // Usando un if, crear una condición que compare si la variable numeroIf es positivo, negativo, o 0.
